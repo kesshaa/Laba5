@@ -1,0 +1,18 @@
+C:\Users\Programmer\source\repos\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Programmer\source\repos\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Programmer\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Programmer\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\Новая папка\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Новая папка\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\УЧЕБА\Новая папка\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\УЧЕБА\Новая папка\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\УЧЕБА\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\УЧЕБА\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\УЧЕБА\Новая папка\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
